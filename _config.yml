@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lilchimp.github.io
+title: lilchimp
+tagline: freelancer sci/tech blog
+description: lilchimp shares over 99% of its genes with apes. This site publishes information about science, technology, programming, writing, illustration and video. And we absolutely abhor humor, unless it involves a cream pie or an original punchline.
+paginate: 1
